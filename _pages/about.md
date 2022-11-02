@@ -10,7 +10,6 @@ redirect_from:
 
 <img src="/images/deathvalley.jpeg"/> Death Valley, California - May 2022 (pic by me).
 
-This is the personal website of Pietro Belloni, PhD Student at the Department of Statistical Sciences, University of Padua (Italy).
+This is the personal website of Pietro Belloni. Currently, I am a PhD Student at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/), [University of Padua](https://www.unipd.it/en/).
 
-My research is about epidemiology and medical statistics, especially applied to drug safety, public health and cancer data. I also have fun with projects about data science, data mining, and natural language processing.
-
+My research focus on epidemiology and medical statistics, especially applied to drug safety, public health and cancer data. I also have fun with projects about data science, data mining, and natural language processing.
