@@ -8,7 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-<img src="/images/deathvalley.jpeg"/> Death Valley, California - May 2022 (pic by me).
+<img src="/images/deathvalley.jpeg"/> Death Valley, California - May 2022 (pic by me)
 
 
 ### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
