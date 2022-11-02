@@ -8,8 +8,10 @@ editor_options:
     wrap: 72
 ---
 
-<img src="/images/deathvalley.jpeg"/> Death Valley, California - May 2022 (pic by me)
+<img src="/images/deathvalley.jpeg"/> Death Valley, California - May
+2022 (pic by me)
 
+## Conference presentations
 
 ### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
 
@@ -28,3 +30,15 @@ Royal Statistical Society International Conference. Belfast, 2019
 
 International Conference on Data Science and Social Research. Milan,
 2019 (talk).
+
+## Seminars
+
+### Disproportionality analysis: statistical methods for pharmacosurveillance
+
+Specialist lecture during the class of Advanced Medical Statistics and
+Epidemiology (MSc), University of Padua, a.y. 2020/2021 and 2021/2022.
+
+## Extraction of tumor stage thought text mining of pathology records
+
+Specialist lecture during the class of Statistical Methods for
+Epidemiology (BSc), University of Padua, a.y. 2018/2019 and 2019/2020.
