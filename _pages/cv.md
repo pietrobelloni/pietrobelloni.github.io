@@ -12,7 +12,7 @@ editor_options:
 
 {% include base_path %}
 
-<img src="/images/bigsur.jpeg"/> Big Sur, California - August 2022 (pic
+<img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021 (pic
 by me).
 
 # Education
