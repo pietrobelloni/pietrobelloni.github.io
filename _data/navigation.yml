@@ -26,3 +26,6 @@ main:
 
   - title: "Contacts"
     url: /contacts/
+
+  - title: "One album a week"
+    url: /music/
