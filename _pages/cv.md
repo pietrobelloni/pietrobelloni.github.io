@@ -23,8 +23,7 @@ by me).
     Prof. N. Tatonetti).
 
 -   **02/2022 - 08/2022, Columbia University (New York, USA)\
-    Visiting period** at the Department of Biomedical Informatics,
-    [Tatonetti's lab](https://tatonettilab.org/).
+    Visiting period** at the Department of Biomedical Informatics.
 
 -   **10/2016 - 03/2019, University of Padua (Italy)\
     Master's Degree** in Statistical Sciences. Advanced skills in
