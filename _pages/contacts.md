@@ -12,7 +12,7 @@ editor_options:
 Italy - October 2022 (pic by me).
 
 <font style="font-size:17px"> <b>Office:</b> <br> Room 130<br/> Department of
-Statistical Sciences <br/> University of Padova<br/> Via C. Battisti
+Statistical Sciences <br/> University of Padua<br/> Via C. Battisti
 241, 35121 Padua (Italy) <br/>
 
 <br>
