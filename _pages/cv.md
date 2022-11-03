@@ -42,19 +42,19 @@ me)
 
 -   **04/2019 - 11/2019, European Institute of Oncology, Milan
     (Italy)**\
-    **Statistician fellow** at the Department of Experimental Oncology.
-    Main interests: medical statistics, survival analysis,
-    meta-analysis, data mining and machine learning applications in
-    medicine (supervisor: Prof. S. Gandini).
+    **Statistician** at the Department of Experimental Oncology. Main
+    interests: medical statistics, survival analysis, meta-analysis,
+    data mining and machine learning applications in medicine
+    (supervisor: Prof. S. Gandini).
 
 -   **08/2018 - 03/2019, Veneto Cancer Registry, Padua (Italy)**\
     **Research internship** for Master's Thesis (supervisor: Dr. Manuel
     Zorzi).
 
 -   **11/2018 - 01/2019, Regional Healthcare System, Padua (Italy)**\
-    **Statistician fellow** at the Diabetology Department. Research
-    project 'Statistical Evaluations of the Diabetes Screening'
-    (supervisor: Prof. A. Lapolla).
+    **Statistician** at the Diabetology Department. Research project
+    'Statistical Evaluations of the Diabetes Screening' (supervisor:
+    Prof. A. Lapolla).
 
 # Skills
 
