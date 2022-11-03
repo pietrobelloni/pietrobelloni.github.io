@@ -12,8 +12,8 @@ editor_options:
 
 {% include base_path %}
 
-<img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021 (pic
-by me)
+<img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021 (pic by
+me)
 
 # Education
 
@@ -22,19 +22,21 @@ by me)
     pharmacoepidemiology (supervisor: Prof. G. Boccuzzo, co-supervisor:
     Prof. N. Tatonetti).
 
--   **02/2022 - 08/2022, Columbia University (New York, USA)\
-    Visiting period** at the Department of Biomedical Informatics.
-
 -   **10/2016 - 03/2019, University of Padua (Italy)\
     Master's Degree** in Statistical Sciences. Advanced skills in
     theoretical and applied statistics and data science.
 
--   **08/2017 - 01/2018, Århus University (Denmark)\
-    Erasmus student** in Mathematics and Statistics Master's Degree.
-
 -   **10/2013 - 09/2016, University of Padua (Italy)\
     Bachelor's Degree** in Statistics. Skills in statistics and data
     analysis in finance, economics and medicine.
+
+# Visiting periods
+
+-   **02/2022 - 08/2022, Columbia University (New York, USA)\
+    Visiting period** at the Department of Biomedical Informatics.
+
+-   **08/2017 - 01/2018, Århus University (Denmark)\
+    Erasmus student** in Mathematics and Statistics Master's Degree.
 
 # Work experience
 
@@ -46,7 +48,8 @@ by me)
     medicine (supervisor: Prof. S. Gandini).
 
 -   **08/2018 - 03/2019, Veneto Cancer Registry, Padua (Italy)**\
-    **Research internship** for Master's Thesis.
+    **Research internship** for Master's Thesis (supervisor: Dr. Manuel
+    Zorzi).
 
 -   **11/2018 - 01/2019, Regional Healthcare System, Padua (Italy)**\
     **Statistician fellow** at the Diabetology Department. Research
