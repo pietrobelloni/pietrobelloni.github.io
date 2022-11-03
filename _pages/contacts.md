@@ -18,7 +18,7 @@ Statistical Sciences <br/> University of Padua<br/> Via C. Battisti
 <br>
 
 <b>Email:</b> <br> pietro.belloni.1 [at] phd.unipd.it (preferred)<br/>
-belloni [at] stat.unipd.it<br/> pietro.belloni [at] unipd.it
+belloni [at] stat.unipd.it<br/> pietro.belloni [at] unipd.it<br/> pb2877 [at] columbia.edu
 </font>
 
 <br/>
