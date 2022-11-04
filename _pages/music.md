@@ -8,8 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-<img src="/images/music.jpeg"/>
-
+<img src="/images/music.jpeg"/> <br/>
 A concert in New York City - June 2022 (pic by me)
 
 I'll try to share an album I like every week. I'll just share it, without any sort of description. It can be famous or niche, old or recent, sometimes Italian. Feel free to reach out if you want to discuss about it!
