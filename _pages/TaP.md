@@ -38,7 +38,7 @@ International Conference on Data Science and Social Research. Milan,
 Specialist lecture during the class of Advanced Medical Statistics and
 Epidemiology (MSc), University of Padua, a.y. 2020/2021 and 2021/2022.
 
-## Extraction of tumor stage thought text mining of pathology records
+### Extraction of tumor stage thought text mining of pathology records
 
 Specialist lecture during the class of Statistical Methods for
 Epidemiology (BSc), University of Padua, a.y. 2018/2019 and 2019/2020.
