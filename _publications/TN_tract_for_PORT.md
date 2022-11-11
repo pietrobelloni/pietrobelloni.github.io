@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-04-24
 venue: 'Oral Diseases'
 paperurl: 'https://doi.org/10.1111/odi.13885'
-citation: 'D. Alterio, M. Augugliaro, M. Tagliabue, R. Bruschini, S. Gandini, L. Calabrese, P. Belloni, L. Preda, F. A. Maffini, G. Marvaso, A. Ferrari, S. Volpe, M. A. Zerella, O. Oneta, I. Turturici, A. Ombretta, F. Ruju, M. Ansarin, R. Orecchia B. A. Jereczek-Fossa. The T‐N tract involvement as a new prognostic factor for PORT in locally advanced oral cavity tumors. Oral Diseases (2021).'
+citation: 'D. Alterio, M. Augugliaro, M. Tagliabue, R. Bruschini, S. Gandini, L. Calabrese, P. Belloni, L. Preda, F. A. Maffini, G. Marvaso, A. Ferrari, S. Volpe, M. A. Zerella, O. Oneta, I. Turturici, A. Ombretta, F. Ruju, M. Ansarin, R. Orecchia, B. A. Jereczek-Fossa. The T‐N tract involvement as a new prognostic factor for PORT in locally advanced oral cavity tumors. Oral Diseases (2021).'
 ---
 
 **Abstract** Objective. The space comprised between tumor and neck lymph nodes (T-N tract) is one of the main routes of tumor spread in oral cavity tumors. Aim of the study was to investigate the impact of T-N tract involvement on the postoperative radiotherapy (PORT) outcomes.
