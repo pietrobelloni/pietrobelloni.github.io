@@ -1,12 +1,12 @@
 ---
-title: "Fake news spreading and sentiment of Italians during the first COVID-19 lockown"
+title: "Fake news spreading and sentiment of Italians during the first COVID-19 locdkown"
 collection: publications
 permalink:
 excerpt: ''
 date: 2022-07-08
 venue: 'Proceedings of the 16th conference on statistical analysis of textual data'
 paperurl: 'https://doi.org/10.13140/RG.2.2.27575.39846'
-citation: 'P. Belloni, M. Silan, G. Cuman. Fake news spreading and sentiment of Italians during the first COVID-19 lockown. In: M. Misuraca, G. Scepi, M. Spano (eds). Proceedings of the 16th conference on statistical analysis of textual data. Vadistat Press (2022).'
+citation: 'P. Belloni, M. Silan, G. Cuman. Fake news spreading and sentiment of Italians during the first COVID-19 locdkown. In: M. Misuraca, G. Scepi, M. Spano (eds). Proceedings of the 16th conference on statistical analysis of textual data. Vadistat Press (2022).'
 ---
 
 **Abstract** The SEBCOV study is an international project which involves several countries including Italy. As a part of the project, an online survey was conducted. 
