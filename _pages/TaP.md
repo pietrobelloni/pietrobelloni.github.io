@@ -17,6 +17,10 @@ editor_options:
 
 Statistical methods and models for complex data. Padua, 2022 (poster).
 
+### Fake news spreading and sentiment of Italians during the first COVID-19 lockdown
+
+CNDSS 2021. Naples, 2021 (talk).
+
 ### Impact of lockdown on the everyday life of Italians: some evidence from a sentiment analysis
 
 XLIV AIE Congress -- Epidemiology for Epidemic. Online, 2020 (poster).
