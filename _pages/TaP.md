@@ -13,6 +13,10 @@ editor_options:
 
 ## Conference presentations
 
+### Identification of neighbourhood clusters on data balanced by a poset-based approach
+
+StatisticAll, Italian festival of statistics and demography. Treviso, 2022 (talk).
+
 ### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
 
 Statistical methods and models for complex data. Padua, 2022 (poster).

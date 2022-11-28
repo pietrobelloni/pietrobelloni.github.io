@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pietro Belloni (he/him)"
+  name             : "Pietro Belloni"
   avatar           : "pic_belloni.jpg"
-  bio              : "PhD Student <br> Department of Statistical Sciences, University of Padua"
+  bio              : "(he/him) <br> PhD Student <br> Department of Statistical Sciences, University of Padua"
   location         : "Padua, Italy"
   employer         :
   pubmed           : 
