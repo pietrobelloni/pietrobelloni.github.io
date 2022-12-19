@@ -18,7 +18,6 @@ me)
 
 Master's degree (laurea magistrale) in Cultural Pluralism, Social Change
 and Migrations - University of Padua.
-
 ECTS: 3.0. Language: English.
 
 
@@ -26,5 +25,4 @@ ECTS: 3.0. Language: English.
 
 Master's degree (laurea magistrale) in Statistical Sciences - University
 of Padua.
-
 ECTS: 9.0. Language: Italian.
