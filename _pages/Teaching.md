@@ -16,7 +16,7 @@ me)
 
 ### [Laboratory of data analysis for social research](https://en.didattica.unipd.it/off/2021/LM/SU/SU2591/000ZZ/SUQ1094899/N0) (teacher in charge)
 
-Master's degree (laurea magistrale) in Cultural Pluralis, Social Change
+Master's degree (laurea magistrale) in Cultural Pluralism, Social Change
 and Migrations - University of Padua.
 
 ECTS: 3.0. Language: English.
