@@ -70,7 +70,7 @@ me)
     skills*)\
     **Python**, **SAS**: statistical modeling (*basic skills*)\
     **MS Office Suite** (*advanced user*)\
-    **Latex**, **Markdown**: documents creation and editing (*proficient
+    **Latex**, **Markdown**: document creation and editing (*proficient
     skills*)\
     Machine learning libraries: **Keras**, **TensorFlow**, **Thorch**
     (*basic skills*)\
