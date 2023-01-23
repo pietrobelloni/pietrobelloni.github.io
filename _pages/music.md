@@ -15,8 +15,11 @@ I'll try to share an album I like every week. I'll just share it, without any so
 
 Disclaimer: I am not a music expert, I just like to listen and share.
 
+Week n. 4, 2023:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6w7XFtdCQf871KU40Ot1Ra?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-external="1"></iframe>
+
 Week n. 3, 2023:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/65KwtzkJXw7oT819NFWmEP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-external="1"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/65KwtzkJXw7oT819NFWmEP?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-external="1"></iframe>
 
 Week n. 2, 2023:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0PIcrVeyArQMYBYK9D4JJT?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-external="1"></iframe>
