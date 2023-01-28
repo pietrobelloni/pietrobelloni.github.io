@@ -72,7 +72,7 @@ me)
     **MS Office Suite** (*advanced user*)\
     **Latex**, **Markdown**: document creation and editing (*proficient
     skills*)\
-    Machine learning libraries: **Keras**, **TensorFlow**, **Thorch**
+    Machine learning libraries: **Keras**, **TensorFlow**, **Torch**
     (*basic skills*)\
     Version control: **GitHub** (*usual user*)
 
