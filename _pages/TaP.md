@@ -13,9 +13,15 @@ editor_options:
 
 ## Conference presentations
 
+### Validation of a frailty indicator during the COVID-19 pandemic
+
+Population days, Meeting of the Italian Association for Population Studies. Rome,
+2023 (talk).
+
 ### Identification of neighbourhood clusters on data balanced by a poset-based approach
 
-StatisticAll, Italian festival of statistics and demography. Treviso, 2022 (talk).
+StatisticAll, Italian festival of statistics and demography. Treviso,
+2022 (talk).
 
 ### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
 
