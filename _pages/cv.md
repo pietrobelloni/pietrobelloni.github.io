@@ -48,13 +48,12 @@ me)
     (supervisor: Prof. S. Gandini).
 
 -   **08/2018 - 03/2019, Veneto Cancer Registry, Padua (Italy)**\
-    **Research internship** for Master's Thesis (supervisor: Dr. Manuel
+    **Research internship** for Master's Thesis (supervisor: Dr. M.
     Zorzi).
 
 -   **11/2018 - 01/2019, Regional Healthcare System, Padua (Italy)**\
     **Statistician** at the Diabetology Department. Research project
-    'Statistical Evaluations of the Diabetes Screening' (supervisor:
-    Prof. A. Lapolla).
+    'Statistical Evaluations of the Diabetes Screening'.
 
 # Skills
 
