@@ -18,4 +18,7 @@ Main research interests:
 | Statistics for oncology             | Population frailty   |
 | Epidemiology/spatial epidemiology   | Composite indicators |
 
-Recently, I joined [Tatonetti's lab](https://tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), [Columbia University](https://www.columbia.edu/) to work on innovative techniques for drug safety. I am also one of the developers of [`faers.db`](https://ubesp-dctv.github.io/faers.db/), a library to provide an R interface to retrieve, merge, and tidy the FAERS database. Previously, I worked as a statistician at the [European Institute of Oncology](https://www.ieo.it/en/), where I provided statistical support to cancer physicians and researchers at the Department of Experimental Oncology.
+Research teams:
+
+-   PRIN project founding *Social and health Frailty as determinants of Inequality in Aging (SOFIA)* at the Department of Statistical Sciences, University of Padova. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
+-    [Tatonetti's lab](https://tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), [Columbia University](https://www.columbia.edu/). PI: Prof. [Nicholas Tatonetti](https://tatonettilab.org/people/)
