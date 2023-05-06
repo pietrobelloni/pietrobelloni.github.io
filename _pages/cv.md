@@ -15,10 +15,16 @@ editor_options:
 <img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021 (pic by
 me)
 
+# Current positions
+
+-   **01/2023 - (ongoing), Department of Statistical Sciences, University of Padua (Italy)**\
+    **Postdoctoral fellow** 
+
 # Education
 
 -   **10/2019 - 04/2023, University of Padua (Italy)\
-    PhD student** in Statistics. Thesis: New approaches on statistical modeling for drug safety data (supervisor: Prof. G. Boccuzzo, co-supervisor:
+    PhD** in Statistics. Thesis: New approaches on statistical modeling
+    for drug safety data (supervisor: Prof. G. Boccuzzo, co-supervisor:
     Prof. N. Tatonetti).
 
 -   **10/2016 - 03/2019, University of Padua (Italy)\
@@ -37,7 +43,7 @@ me)
 -   **08/2017 - 01/2018, Århus University (Denmark)\
     Erasmus student** in Mathematics and Statistics Master's Degree.
 
-# Work experience
+# Previous positions
 
 -   **04/2019 - 11/2019, European Institute of Oncology, Milan
     (Italy)**\
