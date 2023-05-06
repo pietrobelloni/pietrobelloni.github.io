@@ -21,7 +21,7 @@ and Migrations - University of Padua.
 ECTS: 3.0. Language: English.
 
 
-### [Issues and methods for population and society](https://en.didattica.unipd.it/off/2021/LM/SC/SS1736/000ZZ/SCP4063380/N0) (lecturer)
+### [Issues and methods for population and society](https://en.didattica.unipd.it/off/2021/LM/SC/SS1736/000ZZ/SCP4063380/N0) (teacher in charge)
 
 Master's degree (laurea magistrale) in Statistical Sciences - University
 of Padua.

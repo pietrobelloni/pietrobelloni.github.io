@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Pietro Belloni. Currently, I am a postdoctoral scholar at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/), [University of Padova](https://www.unipd.it/en/) (UniPd). My research is focused on epidemiology and medical statistics, especially applied to pharmacoepidemiology, public health and cancer data. I also have fun with projects about data science, data mining, and natural language processing.
+This is the personal website of Pietro Belloni. Currently, I am a postdoctoral scholar at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/), [University of Padova](https://www.unipd.it/en/) (UniPd).
 
-Research interests
+Main research interests
 
 | Epidemiology and Medical Statistics | Social Statistics    |
 |-------------------------------------|----------------------|
