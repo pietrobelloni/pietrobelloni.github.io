@@ -18,6 +18,7 @@ Main research interests:
 | Statistics for oncology             | Population frailty   |
 | Epidemiology/spatial epidemiology   | Composite indicators |
 
+
 Research teams:
 
 -   PRIN project founding *Social and health Frailty as determinants of Inequality in Aging (SOFIA)*. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
