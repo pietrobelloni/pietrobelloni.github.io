@@ -9,7 +9,7 @@ editor_options:
 ---
 
 <img src="/images/music.jpeg"/> <br/>
-A concert in New York City - June 2022 (pic by me)
+A concert in New York City - June 2022
 
 I'll try to share an album I like every week. I'll just share it, without any sort of description. It can be famous or niche, old or recent, sometimes Italian. Feel free to reach out if you want to discuss about it!
 

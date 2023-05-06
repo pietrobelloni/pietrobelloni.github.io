@@ -12,8 +12,7 @@ editor_options:
 
 {% include base_path %}
 
-<img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021 (pic by
-me)
+<img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021
 
 # Current positions
 

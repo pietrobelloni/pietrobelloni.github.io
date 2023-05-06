@@ -9,7 +9,7 @@ editor_options:
 ---
 
 <img src="/images/deathvalley.jpeg"/> Death Valley, California - May
-2022 (pic by me)
+2022
 
 ## Conference presentations
 

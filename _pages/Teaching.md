@@ -8,8 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-<img src="/images/aarhus.jpg"/> Århus, Denmark - September 2017 (pic by
-me)
+<img src="/images/aarhus.jpg"/> Århus, Denmark - September 2017
 
 ## Academic year 2022 - 2023
 

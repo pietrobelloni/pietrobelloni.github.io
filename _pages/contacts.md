@@ -9,7 +9,7 @@ editor_options:
 ---
 
 {% include base_path %} <img src="/images/dolomites.jpeg"/> Dolomites,
-Italy - October 2022 (pic by me)
+Italy - October 2022
 
 <font style="font-size:17px"> <b>Office:</b> <br> Room 122<br/>
 Department of Statistical Sciences <br/> University of Padua<br/> Via C.
