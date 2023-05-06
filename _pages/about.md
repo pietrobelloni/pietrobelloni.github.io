@@ -20,5 +20,5 @@ Main research interests:
 
 Research teams:
 
--   PRIN project founding *Social and health Frailty as determinants of Inequality in Aging (SOFIA)* at the Department of Statistical Sciences, University of Padova. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
+-   PRIN project founding *Social and health Frailty as determinants of Inequality in Aging (SOFIA)*. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
 -    [Tatonetti's lab](https://tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), [Columbia University](https://www.columbia.edu/). PI: Prof. [Nicholas Tatonetti](https://tatonettilab.org/people/)
