@@ -17,7 +17,7 @@ editor_options:
 # Current positions
 
 -   **01/2023 - (ongoing), University of Padua (Italy)**\
-    **Postdoctoral fellow** 
+    **Postdoctoral fellow** in Statistics
 
 # Education
 
