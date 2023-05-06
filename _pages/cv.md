@@ -17,9 +17,8 @@ me)
 
 # Education
 
--   **10/2019 - 01/2023 (expected), University of Padua (Italy)\
-    PhD student** in Statistics. Research topic: statistical methods for
-    pharmacoepidemiology (supervisor: Prof. G. Boccuzzo, co-supervisor:
+-   **10/2019 - 04/2023, University of Padua (Italy)\
+    PhD student** in Statistics. Thesis: New approaches on statistical modeling for drug safety data (supervisor: Prof. G. Boccuzzo, co-supervisor:
     Prof. N. Tatonetti).
 
 -   **10/2016 - 03/2019, University of Padua (Italy)\
