@@ -19,7 +19,11 @@ Main research interests:
 | Epidemiology/spatial epidemiology   | Composite indicators |
 
 \
-Research teams: - PRIN project founding *Social and health Frailty as determinants of Inequality in Aging (SOFIA)*. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/) - [Tatonetti's lab](https://tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), Columbia University. PI: Prof. [Nicholas Tatonetti](https://tatonettilab.org/people/)
+Research teams:
+
+-   PRIN project founding *Social and health Frailty as determinants of Inequality in Aging (SOFIA)*. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
+
+-   [Tatonetti's lab](https://tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), Columbia University. PI: Prof. [Nicholas Tatonetti](https://tatonettilab.org/people/)
 
 \
 I took (badly) all the pictures you see. And how about some [music](https://pietrobelloni.github.io/music/)?
