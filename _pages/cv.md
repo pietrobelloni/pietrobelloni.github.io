@@ -17,7 +17,7 @@ me)
 
 # Current positions
 
--   **01/2023 - (ongoing), Department of Statistical Sciences, University of Padua (Italy)**\
+-   **01/2023 - (ongoing), University of Padua (Italy)**\
     **Postdoctoral fellow** 
 
 # Education
