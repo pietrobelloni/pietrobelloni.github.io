@@ -26,4 +26,4 @@ Research teams:
 -   [Tatonetti's lab](https://tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), Columbia University. PI: Prof. [Nicholas Tatonetti](https://tatonettilab.org/people/)
 
 \
-I took (badly) all the pictures you see. And how about some [music](https://pietrobelloni.github.io/music/)?
+I took (badly) all the pictures you'll see in this website. And how about some [music](https://pietrobelloni.github.io/music/)?
