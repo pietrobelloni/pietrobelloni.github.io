@@ -64,8 +64,7 @@ editor_options:
 -   **Professional**\
     Theoretical and applied statistics (focused on clinical data
     analysis), Data Mining & Machine Learning, Epidemiology, Text Mining
-    & Sentiment Analysis, Survival Analysis, Time Series, Bayesian
-    Analysis.
+    & Sentiment Analysis, Survival Analysis.
 
 -   **Program languages and softwares**\
     **R**: data wrangling, statistical modeling, data mining & machine
