@@ -14,7 +14,7 @@ Main research interests:
 
 | Epidemiology and Medical Statistics | Social Statistics    |
 |-------------------------------------|----------------------|
-| Statistics for pharmacoepidemiology | Text mining and NLP  |
+| Statistics for drug safety          | Text mining and NLP  |
 | Statistics for oncology             | Population frailty   |
 | Epidemiology/spatial epidemiology   | Composite indicators |
 
