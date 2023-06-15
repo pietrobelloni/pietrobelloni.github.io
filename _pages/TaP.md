@@ -13,6 +13,11 @@ editor_options:
 
 ## Conference presentations
 
+### Assessing the effectiveness of a existing frailty indicator for identifying vulnerable elderly individuals during the COVID-19 pandemic
+
+34th REVES (Réseau Espérance de Vie et Santé) meeting. Padua,
+2023 (talk).
+
 ### Validation of a frailty indicator during the COVID-19 pandemic
 
 Population days, Meeting of the Italian Association for Population Studies. Rome,
