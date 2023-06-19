@@ -55,7 +55,7 @@ International Conference on Data Science and Social Research. Milan,
 ### Disproportionality analysis: statistical methods for pharmacosurveillance
 
 Specialist lecture during the class of Advanced Medical Statistics and
-Epidemiology (MSc), University of Padua, a.y. 2020/2021 and 2021/2022.
+Epidemiology (MSc), University of Padua, a.y. 2020/2021, 2021/2022 and 2022/2023.
 
 ### Extraction of tumor stage thought text mining of pathology records
 
