@@ -18,6 +18,15 @@ editor_options:
 
 -   **01/2023 - (ongoing), University of Padua (Italy)**\
     **Postdoctoral fellow** in Statistics
+    
+# Previous positions
+
+-   **04/2019 - 11/2019, European Institute of Oncology, Milan
+    (Italy)**\
+    **Statistician** at the Department of Experimental Oncology. Main
+    interests: medical statistics, survival analysis, meta-analysis,
+    data mining and machine learning applications in medicine
+    (supervisor: Prof. S. Gandini).
 
 # Education
 
@@ -42,14 +51,7 @@ editor_options:
 -   **08/2017 - 01/2018, Århus University (Denmark)\
     Erasmus student** in Mathematics and Statistics Master's Degree.
 
-# Previous positions
-
--   **04/2019 - 11/2019, European Institute of Oncology, Milan
-    (Italy)**\
-    **Statistician** at the Department of Experimental Oncology. Main
-    interests: medical statistics, survival analysis, meta-analysis,
-    data mining and machine learning applications in medicine
-    (supervisor: Prof. S. Gandini).
+# Other work experience
 
 -   **08/2018 - 03/2019, Veneto Cancer Registry, Padua (Italy)**\
     **Research internship** for Master's Thesis (supervisor: Dr. M.
