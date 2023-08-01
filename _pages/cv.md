@@ -17,7 +17,10 @@ editor_options:
 # Current positions
 
 -   **08/2023 - ongoing, University of Padua (Italy)**\
-    **Researcher (RTDa)** in Social Statistics (secs-s/05)
+    **Researcher (RTDa)** in Social Statistics (secs-s/05). Main
+    project: *AGE - IT - A novel public-private alliance to generate
+    socioeconomic, biomedical and technological solutions for an
+    inclusive Italian Ageing Society.*
 
 # Previous positions
 
