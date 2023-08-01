@@ -16,8 +16,8 @@ editor_options:
 
 # Current positions
 
--   **01/2023 - (ongoing), University of Padua (Italy)**\
-    **Postdoctoral fellow** in Statistics
+-   **08/2023 - (ongoing), University of Padua (Italy)**\
+    **Researcher (RTDa)** in Social Statistics SECS-S/05
 
 # Previous positions
 
