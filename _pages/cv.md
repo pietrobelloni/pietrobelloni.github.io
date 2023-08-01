@@ -22,9 +22,9 @@ editor_options:
 # Previous positions
 
 -   **01/2023 - 07/2023, University of Padua (Italy)**\
-    **Postdoctoral fellow** in Statistics. PRIN project founding *Social
-    and health Frailty as determinants of Inequality in Aging - SOFIA*
-    (supervisor: Prof. Giovanna Boccuzzo).
+    **Postdoctoral fellow** at the Department of Statistical Sciences.
+    PRIN project founding *Social and health Frailty as determinants of
+    Inequality in Aging - SOFIA* (supervisor: Prof. Giovanna Boccuzzo).
 -   **04/2019 - 11/2019, European Institute of Oncology, Milan
     (Italy)**\
     **Statistician** at the Department of Experimental Oncology. Main
