@@ -16,8 +16,8 @@ editor_options:
 
 # Current positions
 
--   **08/2023 - (ongoing), University of Padua (Italy)**\
-    **Researcher RTDa** in Social Statistics (secs-s/05)
+-   **08/2023 - ongoing, University of Padua (Italy)**\
+    **Researcher (RTDa)** in Social Statistics (secs-s/05)
 
 # Previous positions
 
