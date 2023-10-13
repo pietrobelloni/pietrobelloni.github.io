@@ -10,7 +10,7 @@ editor_options:
 
 <img src="/images/aarhus.jpg"/> Århus, Denmark - September 2017
 
-## Academic year 2022 - 2023
+## Academic year 2023 - 2024
 
 
 ### Research Methods - Enhancing Course (teacher in charge)
