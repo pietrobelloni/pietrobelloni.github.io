@@ -13,6 +13,14 @@ editor_options:
 ## Academic year 2022 - 2023
 
 
+### Research Methods - Enhancing Course (teacher in charge)
+
+Bachelor's degree [H-Farm College](https://www.h-farm.com/en/education/college). Language: English.
+
+
+## Academic year 2022 - 2023
+
+
 ### [Laboratory of data analysis for social research](https://en.didattica.unipd.it/off/2021/LM/SU/SU2591/000ZZ/SUQ1094899/N0) (teacher in charge)
 
 Master's degree (laurea magistrale) in Cultural Pluralism, Social Change
