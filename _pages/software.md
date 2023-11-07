@@ -8,8 +8,8 @@ editor_options:
     wrap: 72
 ---
 
-{% include base_path %} <img src="/images/dolomites.jpeg"/> Dolomites,
-Italy - October 2022
+{% include base_path %} <img src="/images/greatoceanroad.jpg"/> Great Ocean Road,
+Victoria (Australia) - September 2023
 
 ### R libraries
 
