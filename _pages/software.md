@@ -8,7 +8,7 @@ editor_options:
     wrap: 72
 ---
 
-{% include base_path %} <img src="/images/aarhus.jpg"/> Victoria, Australia - September 2023
+{% include base_path %} <img src="/images/greatoceanroad.jpg"/> Victoria, Australia - September 2023
 
 ### R libraries
 
