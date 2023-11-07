@@ -43,12 +43,10 @@ editor_options:
     Prof. N. Tatonetti).
 
 -   **10/2016 - 03/2019, University of Padua (Italy)\
-    Master's Degree** in Statistical Sciences. Advanced skills in
-    theoretical and applied statistics and data science.
+    Master's Degree** in Statistical Sciences.
 
 -   **10/2013 - 09/2016, University of Padua (Italy)\
-    Bachelor's Degree** in Statistics. Skills in statistics and data
-    analysis in finance, economics and medicine.
+    Bachelor's Degree** in Statistics.
 
 # Visiting periods
 
