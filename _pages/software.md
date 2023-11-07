@@ -10,7 +10,7 @@ editor_options:
 
 {% include base_path %} <img src="/images/greatoceanroad.jpg"/> Great Ocean Road, South Australia - September 2023
 
-### R libraries
+## R libraries
 
 [MARMoT](https://github.com/AlbertoCalore/MARMoT): an R package to apply MARMoT balancing technique, compute Deloof's approximation of the average rank compute the Absolute Standardized Bias.
 
