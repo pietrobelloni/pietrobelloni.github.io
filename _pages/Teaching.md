@@ -18,6 +18,20 @@ editor_options:
 Bachelor's degree [H-Farm College](https://www.h-farm.com/en/education/college). Language: English.
 
 
+### [Issues and methods for population and society](https://en.didattica.unipd.it/off/2023/LM/SC/SS1736/000ZZ/SCP4063380/N0) (lecturer)
+
+Master's degree (laurea magistrale) in Statistical Sciences - University
+of Padua.
+ECTS: 9.0. Language: Italian.
+
+
+### [Epidemiology and statistical methods for medical research (advanced)](https://en.didattica.unipd.it/off/2023/LM/SC/SS1736/000ZZ/SCP4063368/N0) (lecturer)
+
+Master's degree (laurea magistrale) in Statistical Sciences - University
+of Padua.
+ECTS: 9.0. Language: Italian.
+
+
 ## Academic year 2022 - 2023
 
 
