@@ -15,7 +15,7 @@ editor_options:
 
 ### Improving adverse drug event prediction using biochemical features extracted with ChemBERTa
 
-16th International Conference of the ERCIM WG on Computational and Methodological Statistics. Berlin, 2023 (talk).
+16th International Conference of the ERCIM WG on Computational and Methodological Statistics. Berlin, 2023 (invited talk).
 
 ### Assessing the effectiveness of a existing frailty indicator for identifying vulnerable elderly individuals during the COVID-19 pandemic
 
