@@ -11,7 +11,7 @@ editor_options:
 {% include base_path %} <img src="/images/dolomites.jpeg"/> Dolomites,
 Italy - October 2022
 
-<font style="font-size:17px"> <b>Office:</b> <br> Room 122<br/>
+<font style="font-size:17px"> <b>Office:</b> <br> Room 134<br/>
 Department of Statistical Sciences <br/> University of Padua<br/> Via C.
 Battisti 241, 35121 Padua (Italy) <br/>
 
