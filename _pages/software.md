@@ -12,7 +12,7 @@ editor_options:
 
 ## R libraries
 
-[MARMoT](https://github.com/AlbertoCalore/MARMoT): an R package to apply MARMoT balancing technique, compute Deloof's approximation of the average rank and compute the Absolute Standardized Bias.
+[MARMoT](https://CRAN.R-project.org/package=MARMoT): an R package to apply MARMoT balancing technique, compute Deloof's approximation of the average rank and compute the Absolute Standardized Bias.
 
 [faers.db](https://ubesp-dctv.github.io/faers.db/): an R interface to retrieve, merge, and tidy the FAERS database.
 
