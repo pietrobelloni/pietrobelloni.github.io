@@ -23,7 +23,7 @@ Research teams:
 
 -   Next Generation EU founding *Age-It: Ageing Well in an Ageing Society*. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
 
--   [Tatonetti's lab](https://tatonettilab.org/people/) at [DBMI](https://www.dbmi.columbia.edu/), Columbia University. PI: Prof. [Nicholas Tatonetti](http://tatonetti.com/)
+-   [Tatonetti's lab](https://www.tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), Columbia University. PI: Prof. Nicholas Tatonetti
 
 \
 I took (badly) all the pictures you'll see in this website. And how about some [music](https://pietrobelloni.github.io/music/)?
