@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "One album a week"
+title: "Weekly album"
 permalink: /music/
 author_profile: true
 editor_options: 
