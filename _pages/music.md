@@ -15,8 +15,14 @@ I'll try to share an album I like every week. I'll just share it, without any so
 
 Disclaimer: I am not a music expert, I just like to listen and share.
 
+Week n. 17, 2024:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4QviryaneolcRmDB57SLco?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Week n. 16, 2024:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/30VgvhYsrjnMiDmJ0ZLWRn?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Week n. 15, 2024:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2581zQajuI7xJaQlRZO18y?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2581zQajuI7xJaQlRZO18y?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Week n. 14, 2024:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2iITDFv9VGAjLMsIQBzGlh?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
