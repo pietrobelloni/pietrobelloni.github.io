@@ -15,8 +15,11 @@ I'll try to share an album I like every week. I'll just share it, without any so
 
 Disclaimer: I am not a music expert, I just like to listen and share.
 
+Week n. 26, 2024:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pBrciHQXJBaGIfmUBtU0e?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Week n. 25, 2024:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0iH6pbUrb45P62B82PHDLb?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0iH6pbUrb45P62B82PHDLb?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Week n. 24, 2024:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0LhSauStozKf6A4QTd6QN4?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
