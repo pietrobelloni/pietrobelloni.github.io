@@ -11,7 +11,7 @@ editor_options:
 <img src="/images/aarhus.jpg"/> Århus, Denmark - September 2017
 
 
-## Academic year 2023 - 2024
+## Academic year 2024 - 2025
 
 ### [Statistical sources and social indicators](https://en.didattica.unipd.it/off/2023/LM/EP/SP1428/000ZZ/EPP8083998/N0) (lecturer)
 
