@@ -10,6 +10,33 @@ editor_options:
 
 <img src="/images/aarhus.jpg"/> Århus, Denmark - September 2017
 
+
+## Academic year 2023 - 2024
+
+### [Statistical sources and social indicators](https://en.didattica.unipd.it/off/2023/LM/EP/SP1428/000ZZ/EPP8083998/N0) (lecturer)
+
+Master's degree (laurea magistrale) in Government Sciences and Public Policies - University
+of Padua.
+ECTS: 9.0. Language: English.
+
+### [Survey data collection](https://en.didattica.unipd.it/off/2023/LM/EP/EP2733/000ZZ/EPQ3102560/N0) (lecturer)
+
+Master's degree (laurea magistrale) in Applied Economics - University
+of Padua.
+ECTS: 6.0. Language: English.
+
+### [Issues and methods for population and society](https://en.didattica.unipd.it/off/2023/LM/SC/SS1736/000ZZ/SCP4063380/N0) (teacher in charge)
+
+Master's degree (laurea magistrale) in Statistical Sciences - University
+of Padua.
+ECTS: 9.0. Language: Italian.
+
+### Applied Research Methods for Business (teacher in charge)
+
+Master's degree [H-Farm College](https://www.h-farm.com/en/education/college).
+ECTS: 10.0. Language: English.
+
+
 ## Academic year 2023 - 2024
 
 
