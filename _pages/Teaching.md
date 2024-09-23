@@ -17,7 +17,7 @@ editor_options:
 
 Master's degree (laurea magistrale) in Government Sciences and Public Policies - University
 of Padua.
-ECTS: 9.0. Language: English.
+ECTS: 9.0. Language: Italian.
 
 ### [Survey data collection](https://en.didattica.unipd.it/off/2023/LM/EP/EP2733/000ZZ/EPQ3102560/N0) (lecturer)
 
