@@ -15,35 +15,35 @@ editor_options:
 
 -   *Improving adverse drug event prediction using biochemical features
     extracted with ChemBERTa*. 16th International Conference of the
-    ERCIM WG on Computational and Methodological Statistics. Berlin, 2023. 
+    ERCIM WG on Computational and Methodological Statistics. Berlin
+    (Germany), 2023.
 
 ## Conference presentations (as speaker)
 
 -   An age-adjusted disproportionality measure for pediatric
     pharmacovigilance. 52nd Scientific Meeting of the Italian
-    Statistical Society. Bari, 2024.
+    Statistical Society. Bari (Italy), 2024.
 -   Where are people dying the most? Detecting territorial patternsof
     high mortality risk:a case study fromnortheastern Italy. 35th REVES
-    (Réseau Espérance de Vie et Santé) meeting. Bogotà, 2024.
+    (Réseau Espérance de Vie et Santé) meeting. Bogotá (Colombia), 2024.
 -   Assessing the effectiveness of a existing frailty indicator for
     identifying vulnerable elderly individuals during the COVID-19
     pandemic. 34th REVES (Réseau Espérance de Vie et Santé) meeting.
-    Padua, 2023.
+    Padua (Italy), 2023.
 -   Validation of a frailty indicator during the COVID-19 pandemic.
     Population days, Meeting of the Italian Association for Population
-    Studies. Rome, 2023.
+    Studies. Rome (Italy), 2023.
 -   Identification of neighbourhood clusters on data balanced by a
     poset-based approach. StatisticAll, Italian festival of statistics
-    and demography. Treviso, 2022.
--   
+    and demography. Treviso (Italy), 2022.
+-   Fake news spreading and sentiment of Italians during the first
+    COVID-19 lockdown. CNDSS 2021. Naples (Italy), 2021.
+-   Extraction of cancer information from pathology clinical records using text mining. International Conference on Data Science and Social Research. Milan (Italy), 2019.
 
 ### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
 
 Statistical methods and models for complex data. Padua, 2022 (poster).
 
-### Fake news spreading and sentiment of Italians during the first COVID-19 lockdown
-
-CNDSS 2021. Naples, 2021 (talk).
 
 ### Impact of lockdown on the everyday life of Italians: some evidence from a sentiment analysis
 
@@ -54,10 +54,7 @@ XLIV AIE Congress -- Epidemiology for Epidemic. Online, 2020 (poster).
 Royal Statistical Society International Conference. Belfast, 2019
 (poster).
 
-### Extraction of cancer information from pathology clinical records using text mining
 
-International Conference on Data Science and Social Research. Milan,
-2019 (talk).
 
 ## Seminars
 
