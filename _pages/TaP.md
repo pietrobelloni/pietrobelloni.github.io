@@ -16,8 +16,7 @@ editor_options:
 -   *A simulation study to compare MARMOT adjustment and template
     matching in a multiple treatment framework*. 4th International
     Conference on Data Science and Social Research. Naples (Italy),
-    2024.
-
+    2024. 
 -   *Improving adverse drug event prediction using biochemical features
     extracted with ChemBERTa*. 16th International Conference of the
     ERCIM WG on Computational and Methodological Statistics. Berlin
@@ -62,13 +61,16 @@ editor_options:
 
 ## Seminars
 
-### Disproportionality analysis: statistical methods for pharmacosurveillance
+-   *Propensity score methods*. Specialist lecture during the class of
+    Health Data Science (MSc), Ca' Foscari University of Venice, a.y.
+    2023/2024.
 
-Specialist lecture during the class of Advanced Medical Statistics and
-Epidemiology (MSc), University of Padua, a.y. 2020/2021, 2021/2022 and
-2022/2023.
+-   *Disproportionality analysis: statistical methods for
+    pharmacosurveillance*. Specialist lecture during the class of
+    Advanced Medical Statistics and Epidemiology (MSc), University of
+    Padua, a.y. 2020/2021, 2021/2022 and 2022/2023.
 
-### Extraction of tumor stage thought text mining of pathology records
-
-Specialist lecture during the class of Statistical Methods for
-Epidemiology (BSc), University of Padua, a.y. 2018/2019 and 2019/2020.
+-   *Extraction of tumor stage thought text mining of pathology
+    records*. Specialist lecture during the class of Statistical Methods
+    for Epidemiology (BSc), University of Padua, a.y. 2018/2019 and
+    2019/2020.
