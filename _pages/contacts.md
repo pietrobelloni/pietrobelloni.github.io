@@ -8,8 +8,8 @@ editor_options:
     wrap: 72
 ---
 
-{% include base_path %} <img src="/images/dolomites.jpeg"/> Dolomites,
-Italy - October 2022
+{% include base_path %} <img src="/images/adamello.jpg"/> Adamello glacier,
+Italy - August 2024
 
 <font style="font-size:17px"> <b>Office:</b> <br> Room 134<br/>
 Department of Statistical Sciences <br/> University of Padua<br/> Via C.
