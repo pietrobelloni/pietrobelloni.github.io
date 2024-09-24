@@ -38,22 +38,19 @@ editor_options:
     and demography. Treviso (Italy), 2022.
 -   Fake news spreading and sentiment of Italians during the first
     COVID-19 lockdown. CNDSS 2021. Naples (Italy), 2021.
--   Extraction of cancer information from pathology clinical records using text mining. International Conference on Data Science and Social Research. Milan (Italy), 2019.
+-   Extraction of cancer information from pathology clinical records
+    using text mining. International Conference on Data Science and
+    Social Research. Milan (Italy), 2019.
 
-### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
+## Conference posters
 
-Statistical methods and models for complex data. Padua, 2022 (poster).
-
-
-### Impact of lockdown on the everyday life of Italians: some evidence from a sentiment analysis
-
-XLIV AIE Congress -- Epidemiology for Epidemic. Online, 2020 (poster).
-
-### Fecal microbiota, Vitamin D, serum biomarkers of inflammation and diet: a complex interactive network influencing colorectal cancer risk and prognosis
-
-Royal Statistical Society International Conference. Belfast, 2019
-(poster).
-
+-   Not only pharmacovigilance data: the use of biochemical features in
+    drug adverse events prediction. Statistical methods and models for
+    complex data. Padua (Italy), 2022.
+-   Impact of lockdown on the everyday life of Italians: some evidence
+    from a sentiment analysis. XLIV AIE Congress -- Epidemiology for
+    Epidemic. Online, 2020.
+-   Fecal microbiota, Vitamin D, serum biomarkers of inflammation and diet: a complex interactive network influencing colorectal cancer risk and prognosis. Royal Statistical Society International Conference. Belfast (UK), 2019.
 
 
 ## Seminars
