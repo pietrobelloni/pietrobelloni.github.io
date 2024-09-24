@@ -36,4 +36,4 @@ author_profile: true
 
 ## Thesis
 
--   P. Belloni. New approaches on statistical modeling for drug safety data. PhD thesis, University of Padua (2023). <https://hdl.handle.net/11577/3478224>
+-   P. Belloni. *New approaches on statistical modeling for drug safety data*. PhD thesis, University of Padua (2023). <https://hdl.handle.net/11577/3478224>
