@@ -20,7 +20,7 @@ Main research interests:
 
 | 
 
-I hold a Ph.D. in Statistics from the University of Padova, supervised by Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/) and [Nicholas P. Tatonetti](https://tatonetti.com/). I spent part of my PhD at DBMI, Columbia University, as a visitor at [Tatonetti's lab](https://www.tatonettilab.org/).
+I hold a PhD in Statistics from the University of Padova, supervised by Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/) and [Nicholas P. Tatonetti](https://tatonetti.com/). I spent part of my PhD at DBMI, Columbia University, as a visitor at [Tatonetti's lab](https://www.tatonettilab.org/).
 
 Research teams:
 
