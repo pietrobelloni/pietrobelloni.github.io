@@ -15,8 +15,7 @@ editor_options:
 
 -   *Improving adverse drug event prediction using biochemical features
     extracted with ChemBERTa*. 16th International Conference of the
-    ERCIM WG on Computational and Methodological Statistics. Berlin,
-    2023. 
+    ERCIM WG on Computational and Methodological Statistics. Berlin, 2023. 
 
 ## Conference presentations (as speaker)
 
@@ -30,17 +29,13 @@ editor_options:
     identifying vulnerable elderly individuals during the COVID-19
     pandemic. 34th REVES (Réseau Espérance de Vie et Santé) meeting.
     Padua, 2023.
+-   Validation of a frailty indicator during the COVID-19 pandemic.
+    Population days, Meeting of the Italian Association for Population
+    Studies. Rome, 2023.
+-   Identification of neighbourhood clusters on data balanced by a
+    poset-based approach. StatisticAll, Italian festival of statistics
+    and demography. Treviso, 2022.
 -   
-
-### Validation of a frailty indicator during the COVID-19 pandemic
-
-Population days, Meeting of the Italian Association for Population
-Studies. Rome, 2023 (talk).
-
-### Identification of neighbourhood clusters on data balanced by a poset-based approach
-
-StatisticAll, Italian festival of statistics and demography. Treviso,
-2022 (talk).
 
 ### Not only pharmacovigilance data: the use of biochemical features in drug adverse events prediction
 
