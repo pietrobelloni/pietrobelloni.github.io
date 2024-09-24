@@ -31,8 +31,8 @@ author_profile: true
 ## Book chapters and conference proceedings
 
 -   P. Belloni, M. Silan. *Prediction of Italians' Sentiment During the First COVID-19 Lockdown Through a Weighted Random Forest Balanced with SMOTE Algorithm*. In: G. Giordano, M. Misuraca (eds). New Frontiers in Textual Data Analysis. Springer (2024). <https://doi.org/10.1007/978-3-031-55917-4_18>
--   P. Belloni, M. Silan. *Fake news spreading and sentiment of Italians during the first COVID-19 lockdown*. In: M. Misuraca, G. Scepi, M. Spano (eds). Proceedings of the 16th conference on statistical analysis of textual data. Vadistat Press (2022). <https://doi.org/10.13140/RG.2.2.27575.39846>
--   P. Belloni, G. Boccuzzo, S. Guzzinati, I. Italiano, C. R. Rossi, M. Rugge, M. Zorzi. *Staging Cancer Through Text Mining of Pathology Records*. In: Mariani P., Zenga M. (eds). Studies in Classification, Data Analysis, and Knowledge Organization. Springer (2019). [[https://doi.org/10.1007/978-3-030-51222-4_4]{.underline}](https://doi.org/10.1007/978-3-030-51222-4_4)
+-   P. Belloni, M. Silan, G. Cuman. *Fake news spreading and sentiment of Italians during the first COVID-19 lockdown*. In: M. Misuraca, G. Scepi, M. Spano (eds). Proceedings of the 16th conference on statistical analysis of textual data. Vadistat Press (2022). <https://doi.org/10.13140/RG.2.2.27575.39846>
+-   P. Belloni, G. Boccuzzo, S. Guzzinati, I. Italiano, C. R. Rossi, M. Rugge, M. Zorzi. *Staging Cancer Through Text Mining of Pathology Records*. In: Mariani P., Zenga M. (eds). Studies in Classification, Data Analysis, and Knowledge Organization. Springer (2019). <https://doi.org/10.1007/978-3-030-51222-4_4>
 
 ## Thesis
 
