@@ -18,12 +18,11 @@ Main research interests:
 | Statistics for oncology             | Population frailty   |
 | Epidemiology/spatial epidemiology   | Composite indicators |
 
-\
+I hold a Ph.D. in Statistics from the University of Padova, supervised by Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/) and [Nicholas P. Tatonetti](https://tatonetti.com/). I spent part of my PhD at DBMI, Columbia University, as a visitor at [Tatonetti's lab](https://www.tatonettilab.org/).
+
 Research teams:
 
--   Next Generation EU founding *Age-It: Ageing Well in an Ageing Society*. PI: Prof. [Giovanna Boccuzzo](https://homes.stat.unipd.it/giovannaboccuzzo/en/home-2/)
-
--   [Tatonetti's lab](https://www.tatonettilab.org/) at [DBMI](https://www.dbmi.columbia.edu/), Columbia University. PI: Prof. Nicholas Tatonetti
+-   Next Generation EU founding *Age-It: Ageing Well in an Ageing Society*. PI: Prof. Giovanna Boccuzzo.
 
 \
 I took (badly) all the pictures you'll see in this website. And how about some [music](https://pietrobelloni.github.io/music/)?
