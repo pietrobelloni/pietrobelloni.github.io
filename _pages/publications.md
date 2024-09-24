@@ -28,6 +28,11 @@ author_profile: true
 
 -   P. Gnagnarella, S. Raimondi, V. Aristarco, H. Johansson, F. Bellerba, F. Corso, S. P. De Angelis, P. Belloni, S. Caini, S. Gandini. *Ethnicity as modifier of risk for Vitamin D receptors polymorphisms: Comprehensive meta-analysis of all cancer sites*. Critical reviews in oncology/hematology (2020). [[https://doi.org/10.1016/j.critrevonc.2020.103202]{.underline}](https://doi.org/10.1016/j.critrevonc.2020.103202)
 
+## Book chapters and conference proceedings
+
+-   P. Belloni, M. Silan. *Prediction of Italians' Sentiment During the First COVID-19 Lockdown Through a Weighted Random Forest Balanced with SMOTE Algorithm*. In: New Frontiers in Textual Data Analysis (2024). <https://doi.org/10.1007/978-3-031-55917-4_18>
+-   P. Belloni, M. Silan. Fake news spreading and sentiment of Italians during the first COVID-19 lockdown.
+
 {% if author.googlescholar %} You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> {% endif %}
 
 {% include base_path %}
