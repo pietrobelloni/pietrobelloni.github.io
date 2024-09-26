@@ -64,7 +64,7 @@ editor_options:
 
 -   **11/2018 - 01/2019, Regional Healthcare System, Padua (Italy)**\
     **Statistician** at the Diabetology Department. Research project
-    'Statistical Evaluations of the Diabetes Screening'.
+    *Statistical Evaluations of the Diabetes Screening*.
 
 # Skills
 
@@ -87,5 +87,4 @@ editor_options:
 
 -   **Languages\
     Italian**: mother tongue\
-    **English**: fluent (Listening: C1; Reading: C1; Speaking: C1;
-    Writing: B2)
+    **English**: fluent (C1)
