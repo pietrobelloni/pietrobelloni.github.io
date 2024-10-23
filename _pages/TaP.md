@@ -16,7 +16,7 @@ editor_options:
 -   *A simulation study to compare MARMOT adjustment and template
     matching in a multiple treatment framework*. 4th International
     Conference on Data Science and Social Research. Naples (Italy),
-    2024.
+    2024. 
 -   *Improving adverse drug event prediction using biochemical features
     extracted with ChemBERTa*. 16th International Conference of the
     ERCIM WG on Computational and Methodological Statistics. Berlin
@@ -48,6 +48,9 @@ editor_options:
 
 ## Conference posters
 
+-   *Measuring frailty in old age population: a new indicator based on a
+    combination of classifiers.* Scientific Meeting in memory of Lorenzo
+    Bernardi. Padua (Italy), 2024.
 -   *Not only pharmacovigilance data: the use of biochemical features in
     drug adverse events prediction*. Statistical methods and models for
     complex data. Padua (Italy), 2022.
