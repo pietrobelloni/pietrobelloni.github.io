@@ -60,7 +60,7 @@ editor_options:
 -   *Fecal microbiota, Vitamin D, serum biomarkers of inflammation and
     diet: a complex interactive network influencing colorectal cancer
     risk and prognosis*. Royal Statistical Society International
-    Conference. Belfast (UK), 2019.
+    Conference. Belfast (Northern Ireland), 2019.
 
 ## Seminars
 
