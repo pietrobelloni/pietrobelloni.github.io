@@ -15,8 +15,7 @@ editor_options:
 
 -   *A simulation study to compare MARMOT adjustment and template
     matching in a multiple treatment framework*. 4th International
-    Conference on Data Science and Social Research. Naples (Italy),
-    2024. 
+    Conference on Data Science and Social Research. Naples (Italy), 2024. 
 -   *Improving adverse drug event prediction using biochemical features
     extracted with ChemBERTa*. 16th International Conference of the
     ERCIM WG on Computational and Methodological Statistics. Berlin
