@@ -8,15 +8,24 @@ editor_options:
     wrap: 72
 ---
 
-<img src="/images/music.jpeg"/> <br/>
-A concert in New York City - June 2022
+<img src="/images/music.jpeg"/> <br/> A concert in New York City - June
+2022
 
-I'll try to share an album I like every week. I'll just share it, without any sort of description. It can be famous or niche, old or recent, sometimes Italian. Feel free to reach out if you want to discuss about it!
+I'll try to share an album I like every week. I'll just share it,
+without any sort of description. It can be famous or niche, old or
+recent, sometimes Italian. Feel free to reach out if you want to discuss
+about it!
 
 Disclaimer: I am not a music expert, I just like to listen and share.
 
+UPDATE
+After exactly two years, the weekly album stops here. I will leave the list of albums on this page as long as Spotify will let me, take it as the (unupdated) list of my favorite records.
+
+Week n. 44, 2024:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6uvBKDGlJAYLH5Vy6RQVsc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Week n. 43, 2024:
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2av2ZSHlvD7rvLSsMvtYCG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2av2ZSHlvD7rvLSsMvtYCG?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Week n. 42, 2024:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2PIWPTOIxbaVSjTnc30vXS?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -207,7 +216,9 @@ Week n. 31, 2023:
 Week n. 30, 2023:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7wG7cketLF1ZzMAPWa2fcl?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4OFycCEd9tvzBSXGc3tVaG?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4OFycCEd9tvzBSXGc3tVaG?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+
+</iframe>
 
 Week n. 29, 2023:
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6DPdEaZ0KDBCCgXyy4q8bi?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
