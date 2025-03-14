@@ -28,5 +28,4 @@ Research teams:
 
 Also, I'm a proud member of [GLASS](https://sites.google.com/view/laboratoriodistatisticasociale/), a laboratory of social statistics, created and run by young Italian researchers.
 
-\
 I took (badly) all the pictures you'll see in this website. And how about some [music](https://pietrobelloni.github.io/music/)?
