@@ -13,7 +13,7 @@ author_profile: true
 
 ## Papers in peer-reviewed journals
 
--   Y. Tanaka, H. Y. Chen, P. Belloni, U. Gisladottir, J. Kefeli, J. Patterson, A. Srinivasan, M. Zeitz, G. Sirdeshmukh, J. Berkowitz, K. L. Brown, N. P. Tatonetti. *OnSIDES (ON-label SIDE effectS resource) Database : Extracting Adverse Drug Events from Drug Labels using Natural Language Processing Models*. Med (2025). <https://doi.org/10.1016/j.medj.2025.100642>
+-   Y. Tanaka, H. Y. Chen, P. Belloni, U. Gisladottir, J. Kefeli, J. Patterson, A. Srinivasan, M. Zeitz, G. Sirdeshmukh, J. Berkowitz, K. L. Brown, N. P. Tatonetti. *OnSIDES (ON-label SIDE effectS resource) Database: Extracting Adverse Drug Events from Drug Labels using Natural Language Processing Models*. Med (2025). <https://doi.org/10.1016/j.medj.2025.100642>
 
 -   M. Silan, P. Belloni, G. Boccuzzo. *Identification of neighborhood clusters on data balanced by a poset-based approach*. Statistical Methods & Applications (2023). <https://doi.org/10.1007/s10260-023-00695-0>
 
