@@ -10,9 +10,10 @@ author_profile: true
 ## Preprints
 
 -   A. Sottosanti, P. Belloni, E. Bovo, G. Boccuzzo. *Bayesian Mapping of Mortality Clusters*. arXiv preprint (2024). <https://arxiv.org/abs/2407.19135>
--   Y. Tanaka, H. Y. Chen, P. Belloni, U. Gisladottir, J. Kefeli, J. Patterson, A. Srinivasan, M. Zeitz, G. Sirdeshmukh, J. Berkowitz, K. L. Brown, N. P. Tatonetti. *OnSIDES (ON-label SIDE effectS resource) Database : Extracting Adverse Drug Events from Drug Labels using Natural Language Processing Models*. medRxiv preprint (2024). <https://doi.org/10.1101/2024.03.22.24304724>
 
 ## Papers in peer-reviewed journals
+
+-   Y. Tanaka, H. Y. Chen, P. Belloni, U. Gisladottir, J. Kefeli, J. Patterson, A. Srinivasan, M. Zeitz, G. Sirdeshmukh, J. Berkowitz, K. L. Brown, N. P. Tatonetti. *OnSIDES (ON-label SIDE effectS resource) Database : Extracting Adverse Drug Events from Drug Labels using Natural Language Processing Models*. Med (2025). <https://doi.org/10.1016/j.medj.2025.100642>
 
 -   M. Silan, P. Belloni, G. Boccuzzo. *Identification of neighborhood clusters on data balanced by a poset-based approach*. Statistical Methods & Applications (2023). <https://doi.org/10.1007/s10260-023-00695-0>
 
