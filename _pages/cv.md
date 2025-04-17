@@ -14,7 +14,7 @@ editor_options:
 
 <img src="/images/algarve.jpg"/> Algarve, Portugal - August 2021
 
-# Current positions
+# Current position
 
 -   **08/2023 - ongoing, University of Padua (Italy)**\
     **Researcher (RTDa)** in Social Statistics (secs-s/05). Main
@@ -73,7 +73,7 @@ editor_options:
     analysis), Data Mining & Machine Learning, Epidemiology, Text Mining
     & Sentiment Analysis, Survival Analysis.
 
--   **Program languages and softwares**\
+-   **Programming languages and softwares**\
     **R**: data wrangling, statistical modeling, data mining & machine
     learning, package development, data visualization (*advanced
     skills*)\
