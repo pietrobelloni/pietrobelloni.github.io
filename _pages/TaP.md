@@ -69,7 +69,7 @@ editor_options:
 -   *Disproportionality analysis: statistical methods for
     pharmacosurveillance*. Specialist lecture during the class of
     Advanced Medical Statistics and Epidemiology (MSc), University of
-    Padua, a.y. 2020/2021, 2021/2022 and 2022/2023.
+    Padua, a.y. 2020/2021, 2021/2022, 2022/2023 and 2024/2025.
 -   *Extraction of tumor stage thought text mining of pathology
     records*. Specialist lecture during the class of Statistical Methods
     for Epidemiology (BSc), University of Padua, a.y. 2018/2019 and
