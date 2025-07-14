@@ -20,7 +20,7 @@ editor_options:
 -   *A simulation study to compare MARMOT adjustment and template
     matching in a multiple treatment framework*. 4th International
     Conference on Data Science and Social Research. Naples (Italy),
-    2024.
+    2024. 
 -   *Improving adverse drug event prediction using biochemical features
     extracted with ChemBERTa*. 16th International Conference of the
     ERCIM WG on Computational and Methodological Statistics. Berlin
@@ -28,6 +28,9 @@ editor_options:
 
 ## Conference presentations (as speaker)
 
+-   *Measuring frailty in the elderly: an indicator based on a
+    combination of classifiers*. 36th REVES (Réseau Espérance de Vie et
+    Santé) meeting. Tampere (Finland), 2025.
 -   *An age-adjusted disproportionality measure for pediatric
     pharmacovigilance*. 52nd Scientific Meeting of the Italian
     Statistical Society. Bari (Italy), 2024.
