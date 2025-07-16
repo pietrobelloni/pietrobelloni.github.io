@@ -7,12 +7,12 @@ author_profile: true
 
 <img src="/images/moher.jpg"/> Cliffs of Moher, Ireland - September 2019
 
-## Preprints
+## Preprints (not peer-reviewed)
 
 -   S. Rebottini, P. Belloni. *Measuring frailty in the elderly: an indicator based on a super-classifier.* arXiv preprint (2025). <https://arxiv.org/abs/2506.22349>
 -   A. Sottosanti, P. Belloni, E. Bovo, G. Boccuzzo. *Bayesian Mapping of Mortality Clusters*. arXiv preprint (2024). <https://arxiv.org/abs/2407.19135>
 
-## Papers in peer-reviewed journals
+## Papers in journals (peer-reviewed)
 
 -   Y. Tanaka, H. Y. Chen, P. Belloni, U. Gisladottir, J. Kefeli, J. Patterson, A. Srinivasan, M. Zeitz, G. Sirdeshmukh, J. Berkowitz, K. L. Brown, N. P. Tatonetti. *OnSIDES (ON-label SIDE effectS resource) Database: Extracting Adverse Drug Events from Drug Labels using Natural Language Processing Models*. Med (2025). <https://doi.org/10.1016/j.medj.2025.100642>
 
@@ -30,7 +30,7 @@ author_profile: true
 
 -   P. Gnagnarella, S. Raimondi, V. Aristarco, H. Johansson, F. Bellerba, F. Corso, S. P. De Angelis, P. Belloni, S. Caini, S. Gandini. *Ethnicity as modifier of risk for Vitamin D receptors polymorphisms: Comprehensive meta-analysis of all cancer sites*. Critical reviews in oncology/hematology (2020). <https://doi.org/10.1016/j.critrevonc.2020.103202>
 
-## Book chapters and conference proceedings
+## Book chapters and conference proceedings (peer-reviewed)
 
 -   K. T. Dame, P. Belloni, U. Moretti, F. Scapini, M. Tuccori, A. R. Brazzale. *Exploring Ontology-Based Mining of ADRs.* In: E. di Bella, V. Gioia, C. Lagazio, S. Zaccarin (eds). Statistics for Innovation IV. Springer (2025). <https://doi.org/10.1007/978-3-031-96033-8_63>
 -   P. Belloni, F. Pizzolato. *An Age-Adjusted Disproportionality Measure for Pediatric Pharmacovigilance.* In: A. Pollice, P. Mariani (eds). Methodological and Applied Statistics and Demography III. Springer (2025). <https://doi.org/10.1007/978-3-031-64431-3_31>
