@@ -24,3 +24,11 @@ Ocean Road, South Australia - September 2023
 
 -   [faers.db](https://ubesp-dctv.github.io/faers.db/): an R interface
     to retrieve, merge, and tidy the FAERS database.
+
+## Code for reproducibility
+
+-   <https://github.com/pietrobelloni/model-based-scan-statistic>
+
+-   <https://github.com/pietrobelloni/superFI>
+
+-   <https://github.com/RamiCosulich/Clustering-HLI-GBD>
