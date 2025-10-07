@@ -10,6 +10,19 @@ editor_options:
 
 <img src="/images/aarhus.jpg"/> Århus, Denmark - September 2017
 
+## Academic year 2025 - 2026
+
+-   [Statistical sources and social
+    indicators](https://it.didattica.unipd.it/off/2024/LM/EP/SP1428/000ZZ/EPP8083998/N0)
+    (lecturer). Master's degree (laurea magistrale) in Government
+    Sciences and Public Policies - University of Padua. ECTS: 9.0.
+    Language: Italian.
+-   [Issues and methods for population and
+    society](https://it.didattica.unipd.it/off/2024/LM/SC/SS1736/000ZZ/SCP4063380/N0)
+    (teacher in charge) Master's degree (laurea magistrale) in
+    Statistical Sciences - University of Padua. ECTS: 9.0. Language:
+    Italian.
+
 ## Academic year 2024 - 2025
 
 -   [Statistical sources and social
