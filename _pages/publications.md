@@ -10,9 +10,10 @@ author_profile: true
 ## Preprints
 
 -   S. Rebottini, P. Belloni. *Measuring frailty in the elderly: an indicator based on a super-classifier.* arXiv preprint (2025). <https://arxiv.org/abs/2506.22349>
--   A. Sottosanti, P. Belloni, E. Bovo, G. Boccuzzo. *Bayesian Mapping of Mortality Clusters*. arXiv preprint (2024). <https://arxiv.org/abs/2407.19135>
 
 ## Papers in journals
+
+-   A. Sottosanti, E. Bovo, P. Belloni, G. Boccuzzo. *Bayesian Mapping of Mortality Clusters*. Biostatistics (2025). <https://doi.org/10.1093/biostatistics/kxaf028>
 
 -   Y. Tanaka, H. Y. Chen, P. Belloni, U. Gisladottir, J. Kefeli, J. Patterson, A. Srinivasan, M. Zeitz, G. Sirdeshmukh, J. Berkowitz, K. L. Brown, N. P. Tatonetti. *OnSIDES (ON-label SIDE effectS resource) Database: Extracting Adverse Drug Events from Drug Labels using Natural Language Processing Models*. Med (2025). <https://doi.org/10.1016/j.medj.2025.100642>
 
