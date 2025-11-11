@@ -12,11 +12,11 @@ This is the personal website of Pietro Belloni. Currently, I am a researcher (It
 
 Main research interests:
 
-| Epidemiology and Medical Statistics | Social Statistics    |
-|-------------------------------------|----------------------|
-| Statistics for drug safety          | Text mining and NLP  |
-| Statistics for oncology             | Population frailty   |
-| Epidemiology/spatial epidemiology   | Composite indicators |
+| Social Statistics   | Epidemiology and Medical Statistics |
+|---------------------|-------------------------------------|
+| Population frailty  | Statistics for drug safety          |
+| Frailty indicators  | Epidemiology/spatial epidemiology   |
+| Text mining and NLP | Statistics for oncology             |
 
 ------------------------------------------------------------------------
 
