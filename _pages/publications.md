@@ -9,9 +9,11 @@ author_profile: true
 
 ## Preprints
 
--   S. Rebottini, P. Belloni. *Measuring frailty in the elderly: an indicator based on a super-classifier.* arXiv preprint (2025). <https://arxiv.org/abs/2506.22349>
+-   S. Rebottini, P. Belloni. *Measuring frailty in the elderly: an indicator based on a super-classifier*. arXiv preprint (2025). <https://arxiv.org/abs/2506.22349>
 
 ## Papers in journals
+
+-   E. Bovo, P. Belloni, A. Sottosanti, G. Boccuzzo. *A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk*. Environmental and Ecological Statistics (2025). <https://doi.org/10.1007/s10651-025-00684-4>
 
 -   A. Sottosanti, E. Bovo, P. Belloni, G. Boccuzzo. *Bayesian Mapping of Mortality Clusters*. Biostatistics (2025). <https://doi.org/10.1093/biostatistics/kxaf028>
 
