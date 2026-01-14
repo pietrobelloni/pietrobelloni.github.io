@@ -15,6 +15,8 @@ author_profile: true
 
 ## Papers in journals
 
+-   E. Belluzzi, A. Pozzuoli, P. Belloni, M. G. Rodà, A. Angelini, P. Ruggieri (2026) *Prognostic biomarkers for overall survival in patients undergoing surgery for bone metastases: a pan-cancer study*. Frontiers in Medicine (2026). <https://doi.org/10.3389/fmed.2025.1655245>
+
 -   E. Bovo, P. Belloni, A. Sottosanti, G. Boccuzzo. *A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk*. Environmental and Ecological Statistics (2025). <https://doi.org/10.1007/s10651-025-00684-4>
 
 -   A. Sottosanti, E. Bovo, P. Belloni, G. Boccuzzo. *Bayesian Mapping of Mortality Clusters*. Biostatistics (2025). <https://doi.org/10.1093/biostatistics/kxaf028>
