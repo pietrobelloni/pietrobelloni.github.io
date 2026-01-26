@@ -15,8 +15,8 @@ Ocean Road, South Australia - September 2023
 
 -   [perla](https://github.com/andreasottosanti/perla): R library to
     implement the PERLA model proposed in [Bayesian mapping of mortality
-    clusters](https://arxiv.org/abs/2407.19135) by A. Sottosanti, P.
-    Belloni, E. Bovo and G. Boccuzzo.
+    clusters](https://arxiv.org/abs/2407.19135) by A. Sottosanti, E.
+    Bovo, P. Belloni and G. Boccuzzo.
 
 -   [MARMoT](https://CRAN.R-project.org/package=MARMoT): an R package to
     apply MARMoT balancing technique, compute Deloof's approximation of
