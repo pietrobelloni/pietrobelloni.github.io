@@ -15,6 +15,9 @@ author_profile: true
 
 ## Papers in journals
 
+-   E. Cisotto, M. Moretti, M. Silan, J. Damiens, P. Belloni, K. Korhonen, P. Martikainen. *Mapping Social Health and Dementia Risk: A Register-Based Study of Older Adults in Finland*. Social Science & Medicine (2026).\
+    <https://doi.org/10.1016/j.socscimed.2026.119154>
+
 -   E. Belluzzi, A. Pozzuoli, P. Belloni, M. G. Rodà, A. Angelini, P. Ruggieri. *Prognostic biomarkers for overall survival in patients undergoing surgery for bone metastases: a pan-cancer study*. Frontiers in Medicine (2026). <https://doi.org/10.3389/fmed.2025.1655245>
 
 -   E. Bovo, P. Belloni, A. Sottosanti, G. Boccuzzo. *A model-based scan statistic with enhanced specificity for detecting spatial clusters of high mortality risk*. Environmental and Ecological Statistics (2025). <https://doi.org/10.1007/s10651-025-00684-4>
