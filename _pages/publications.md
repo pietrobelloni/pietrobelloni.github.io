@@ -42,6 +42,7 @@ author_profile: true
 
 ## Book chapters and conference proceedings
 
+- E. Bortolotto, P. Belloni. *Evaluating Frailty Among Older Adults Using a Principal Components-Based Indicator.* In: F. Martella, S. Arima, M. F. Marino, C. Mollica (eds). Statistical Science: From Theory to Applied Research II. Springer (2026). <https://doi.org/10.1007/978-3-032-30877-1_58>
 - K. T. Dame, P. Belloni, U. Moretti, F. Scapini, M. Tuccori, A. R. Brazzale. *Exploring Ontology-Based Mining of ADRs.* In: E. di Bella, V. Gioia, C. Lagazio, S. Zaccarin (eds). Statistics for Innovation IV. Springer (2025). <https://doi.org/10.1007/978-3-031-96033-8_63>
 - P. Belloni, F. Pizzolato. *An Age-Adjusted Disproportionality Measure for Pediatric Pharmacovigilance.* In: A. Pollice, P. Mariani (eds). Methodological and Applied Statistics and Demography III. Springer (2025). <https://doi.org/10.1007/978-3-031-64431-3_31>
 - P. Belloni, M. Silan. *Prediction of Italians' Sentiment During the First COVID-19 Lockdown Through a Weighted Random Forest Balanced with SMOTE Algorithm*. In: G. Giordano, M. Misuraca (eds). New Frontiers in Textual Data Analysis. Springer (2024). <https://doi.org/10.1007/978-3-031-55917-4_18>
