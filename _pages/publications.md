@@ -15,6 +15,9 @@ author_profile: true
 
 ## Papers in journals
 
+- A. Paoli, G. Cerullo, S. Paoli, D. Charrier, J. Givralli, A. Bianco, G. Boccuzzo, P. Belloni, L. Cenci, T. Moro. *Defining a ketone threshold for weight loss: evidence from 14 day daily β-hydroxybutyrate monitoring in 217 subjects on a ketogenic diet*. Nutrition & Diabetes (2026).\
+  <https://doi.org/10.1038/s41387-026-00454-6>
+
 - E. Cisotto, M. Moretti, M. Silan, J. Damiens, P. Belloni, K. Korhonen, P. Martikainen. *Mapping Social Health and Dementia Risk: A Register-Based Study of Older Adults in Finland*. Social Science & Medicine (2026).\
   <https://doi.org/10.1016/j.socscimed.2026.119154>
 
