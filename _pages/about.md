@@ -24,7 +24,8 @@ I hold a PhD in Statistics from the University of Padova, supervised by Prof. [G
 
 Research teams:
 
--   Next Generation EU project [*Age-It: Ageing Well in an Ageing Society*](https://ageit.eu/wp/en/s-p-o-k-e-4/). Spoke 4, WP5. PI: Prof. Giovanna Boccuzzo.
+- [SOCIAL](https://sites.google.com/site/brunoarpino/projects/social?authuser=0): Social relations, digital technologies and wellbeing of older people. PI: Prof. Bruno Arpino.
+- [IDEAS-Lab](https://ideas.stat.unipd.it/): Indicators, Data, Epidemiology and Social Analysis. PI: Prof. Giovanna Boccuzzo.
 
 Also, I'm a proud member of [GLASS](https://sites.google.com/view/laboratoriodistatisticasociale/), a laboratory of social statistics, created and run by young Italian researchers.
 
