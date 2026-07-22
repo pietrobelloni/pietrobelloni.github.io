@@ -53,7 +53,8 @@ author_profile: true
 - M. Tagliabue, P. Belloni, R. De Berardinis, F. Chu, S. Zorzi, C. Fumagalli, L. Santoro, S. Chiocca, M. Ansarin. *A systematic review and meta‐analysis of the prognostic role of age in oral tongue cancer*. Cancer Medicine (2021).\
   <https://doi.org/10.1002/cam4.3795>
 
-- P. Gnagnarella, S. Raimondi, V. Aristarco, H. Johansson, F. Bellerba, F. Corso, S. P. De Angelis, P. Belloni, S. Caini, S. Gandini. *Ethnicity as modifier of risk for Vitamin D receptors polymorphisms: Comprehensive meta-analysis of all cancer sites*. Critical reviews in oncology/hematology (2020). <https://doi.org/10.1016/j.critrevonc.2020.103202>
+- P. Gnagnarella, S. Raimondi, V. Aristarco, H. Johansson, F. Bellerba, F. Corso, S. P. De Angelis, P. Belloni, S. Caini, S. Gandini. *Ethnicity as modifier of risk for Vitamin D receptors polymorphisms: Comprehensive meta-analysis of all cancer sites*. Critical reviews in oncology/hematology (2020).\
+  <https://doi.org/10.1016/j.critrevonc.2020.103202>
 
 ## Book chapters and conference proceedings
 
