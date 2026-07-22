@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the personal website of Pietro Belloni. Currently, I am a researcher (Italian RTDa) at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/), [University of Padova](https://www.unipd.it/en/) (UniPd).
+This is the personal website of Pietro Belloni. Currently, I am a researcher (Italian *contratto di ricerca*) at the [Department of Statistical Sciences](https://www.stat.unipd.it/en/), [University of Padova](https://www.unipd.it/en/) (UniPd).
 
 Main research interests:
 
