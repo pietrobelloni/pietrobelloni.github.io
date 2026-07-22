@@ -18,18 +18,19 @@ editor_options:
 
 - **08/2026 - ongoing, University of Padua (Italy)**\
   **Researcher (*contratto di ricerca*)** in Social Statistics
-  (secs-s/05) funded by FIS-2 project SOCIAL (supervisor: Prof. B.
+  (secs-s/05) funded by FIS-2 project "SOCIAL: Social relations, digital
+  technologies and wellbeing of older people" (supervisor: Prof. B.
   Arpino).
 
 # Previous positions
 
 - **08/2023 - 07/2026, University of Padua (Italy)**\
   **Researcher (RTDa)** in Social Statistics (secs-s/05) funded by PNRR
-  European project AGE - IT.
+  European project "Age-It: Ageing Well in an Ageing Society".
 - **01/2023 - 07/2023, University of Padua (Italy)**\
   **Postdoctoral fellow** at the Department of Statistical Sciences
-  funded by PRIN project *Social and health Frailty as determinants of
-  Inequality in Aging - SOFIA* (supervisor: Prof. G. Boccuzzo).
+  funded by PRIN project "SOFIA: Social and health Frailty as
+  determinants of Inequality in Aging" (supervisor: Prof. G. Boccuzzo).
 - **04/2019 - 11/2019, European Institute of Oncology, Milan (Italy)**\
   **Statistician** at the Department of Experimental Oncology. Main
   interests: medical statistics, survival analysis, meta-analysis, data
