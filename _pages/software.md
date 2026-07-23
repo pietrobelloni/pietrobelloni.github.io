@@ -24,5 +24,14 @@ Ocean Road, South Australia - September 2023
 - [faers.db](https://ubesp-dctv.github.io/faers.db/): an R interface to
   retrieve, merge, and tidy the FAERS database.
 
+## Apps
+
+- [CARE-FI](https://zenodo.org/records/21486700): Code to run an
+  application for the calculation of the CARE-FI (Composite
+  Administrative Data-based Ranking Estimator Frailty Index) frailty
+  indicator proposed in <https://arxiv.org/abs/2506.23158>.
+
+## Other
+
 The code for the reproducibility of the results of some of my articles
 can be found on my [Github page](https://github.com/pietrobelloni).
