@@ -14,7 +14,7 @@ author_profile: true
 
 ## Papers in journals
 
-- S. Rebottini, M. Silan, P. Belloni. *Measuring frailty in the elderly: an indicator based on a super-classifier*. Journal of the Royal Statistical Society: Series A (2026). [in press, [preprint](https://arxiv.org/abs/2506.22349)]\
+- S. Rebottini, M. Silan, P. Belloni. *Measuring frailty in older adults: an indicator based on a super-classifier*. Journal of the Royal Statistical Society: Series A (2026). [in press, [preprint](https://arxiv.org/abs/2506.22349)]\
   <https://doi.org/10.1093/jrsssa/qnag121>
 
 - A. Paoli, G. Cerullo, S. Paoli, D. Charrier, J. Givralli, A. Bianco, G. Boccuzzo, P. Belloni, L. Cenci, T. Moro. *Defining a ketone threshold for weight loss: evidence from 14 day daily β-hydroxybutyrate monitoring in 217 subjects on a ketogenic diet*. Nutrition & Diabetes (2026).\
