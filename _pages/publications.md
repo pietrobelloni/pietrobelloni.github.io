@@ -10,7 +10,7 @@ author_profile: true
 ## Preprints
 
 - K. T. Dame, P. Belloni, U. Moretti, F. Scapini, M. Tuccori, A. R. Brazzale. *Advances in Ontology-Based Mining of Adverse Drug Reactions*. arXiv preprint (2025).\
-  <https://arxiv.org/abs/2512.11452v1>
+  <https://arxiv.org/abs/2512.11452>
 
 ## Papers in journals
 
